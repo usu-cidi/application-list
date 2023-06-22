@@ -5,3 +5,7 @@ Center for Instructional Design and Innovation - Utah State University
 
 This is a simple static website that makes the web applications and documentation I've written available in one place.
 This is a more client oriented version of the more developer oriented documentation I've written [here](https://github.com/emmalynnnn/cidi-docs).
+
+[CLICK HERE :)](https://master.d3onio3knkhn91.amplifyapp.com/)
+
+
