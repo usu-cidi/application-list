@@ -11,6 +11,9 @@ Center for Instructional Design and Innovation - Utah State University
 ### 6.22.23
 * Finished setting up
 
+### 7.31.23
+* 
+
 
 ## Sources / References
 
