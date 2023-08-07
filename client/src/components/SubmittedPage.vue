@@ -26,6 +26,7 @@
       <!----------------------->
       <br>
     </div>
+    <a href="/" class="btn btn-dark button">Back &lt;</a>
   </div>
 
 </template>
